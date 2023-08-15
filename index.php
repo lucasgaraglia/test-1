@@ -8,5 +8,6 @@
 <body>
     <h1>Hola git1!</h1>
     <p>me gusta gustar</p>
+    <textarea name="" id="" cols="30" rows="10"></textarea>
 </body>
 </html>
